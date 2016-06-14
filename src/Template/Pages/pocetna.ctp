@@ -52,6 +52,10 @@
                <!--End of container with txt-->           
           </div> <!--End of sec col-->
 
+          <?php  $cell = $this->cell('News'); ?>
+          <?= $cell ?>
+
+
           <div class="col-md-4"><!--thr col-->
             <div class=" embed-responsive embed-responsive-16by9 ">
              <iframe class="responsive" src="https://www.google.com/maps/d/embed?mid=1LIs13PX1lSkgEO9M4V8J70hyyPM" width="640" height="480"></iframe>

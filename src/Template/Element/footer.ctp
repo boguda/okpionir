@@ -6,27 +6,27 @@
                     <div class="row">
                       <div class="col-md-4">
                       <div class="fmarketing"> 
-                        <span><i class="fa fa-facebook fa-5x" aria-hidden="true"></i></span>
+                        <span><a href="/"><i class="fa fa-facebook fa-5x" aria-hidden="true"></i></a></span>
                         <div class="pull-right">
-                        <h4>Facebook</h4>
+                        <h4><a href="/">Facebook</a></h4>
                         <p class="futer-p">Pratite nas na društvenim mrežama...</p>
                         </div>
                       </div>
                       </div>
                        <div class="col-md-4">
                       <div class="fmarketing"> 
-                        <span><i class="fa fa-list fa-5x" aria-hidden="true"></i></span>
+                        <span><a href="/"><i class="fa fa-list fa-5x" aria-hidden="true"></i></a></span>
                         <div class="pull-right">
-                        <h4>Obaveštenja</h4>
+                        <h4><a href="/">Obaveštenja</a></h4>
                         <p class="futer-p">Naj važnija dešavanja...</p>
                         </div>
                       </div>
                       </div>
                       <div class="col-md-4">
                       <div class="fmarketing"> 
-                        <span><i class="fa fa-camera-retro fa-5x" aria-hidden="true"></i></span>
+                        <span><a href="/"><i class="fa fa-camera-retro fa-5x" aria-hidden="true"></i></a></span>
                         <div class="pull-right">
-                        <h4>Galerija</h4>
+                        <h4><a href="/">Galerija</a></h4>
                         <p class="futer-p">Pogledajte foto galeriju...</p>
                         </div>
                       </div>
@@ -70,7 +70,7 @@
                               <li class="list-naslov">Karate klub RODA</li>  
                               <li>Čukarica</li>
                               <li>Adresa: </li>
-                              <li>11460 Барајево</li>
+                              <li>Ljeska</li>
                               <li>PIB:555555</li>
                               <li>MB:555555</li>
                               <li>Tlel:</li>

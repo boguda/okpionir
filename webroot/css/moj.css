@@ -17,7 +17,7 @@
 }
 
 .mojfooter ul > li:hover{ 
-	box-shadow: 0px 5px rgba(1, 58, 233, 0.3);			
+	border-left: solid #013ADF 3px;	 		
 }
 .mojfooter ul > li > a {
 	padding-left: 15px;
