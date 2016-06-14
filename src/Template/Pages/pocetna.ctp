@@ -52,8 +52,7 @@
                <!--End of container with txt-->           
           </div> <!--End of sec col-->
 
-          <?php  $cell = $this->cell('News'); ?>
-          <?= $cell ?>
+          <?= $this->cell('News::display'); ?>
 
 
           <div class="col-md-4"><!--thr col-->
