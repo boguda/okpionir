@@ -25,9 +25,13 @@ class NewsCell extends Cell
     public function display()
     {
         $this->loadModel('News');
-        $top_news= $this->News->find('all')
-        
-        $this->set(['top_news' => $news]);
+        $top_news= $this->News->find()
+        ->select('title')
+        ->order(['created'=>'DESC'])
+        ->limit(3)
+        ->toArray();
+
+        $this->set('top_news' => $news);
     
     }
 }
